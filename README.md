@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C Language**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rishikesh-b](https://github.com/rishikesh-b)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/rishikesh-b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
