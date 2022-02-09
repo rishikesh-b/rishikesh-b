@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishikesh Bharadwaj</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikesh-b" alt="rishikesh-b" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikesh-b&theme=matrix" alt="rishikesh-b" /></a> </p>
 
 - 🔭 I’m currently working on [Billing System](https://github.com/rishikesh-b/BillingSystem)
 
