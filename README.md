@@ -19,12 +19,15 @@
 
 
 <h2 align="center">Github Stats:</h2>
+<p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikesh-b&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="rishikesh-b" />
-<br />
+</br>
+</br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishikesh-b&show_icons=true&theme=aura&locale=en" alt="rishikesh-b" />
 
-<br />
+</br>
+</br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikesh-b&theme=highcontrast" alt="rishikesh-b" />
 
-<br />
+</p>
