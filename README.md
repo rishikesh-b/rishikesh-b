@@ -5,9 +5,9 @@
 
  - I’m currently working on [Billing System](https://github.com/rishikesh-b/BillingSystem)
 
- - I’m currently learning **C Language**
+ - I’m currently learning ***C***
 
- - All of my projects are available at [Github](https://github.com/rishikesh-b)<h4/>
+ - All of my projects are available at [Github](https://github.com/rishikesh-b)
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
