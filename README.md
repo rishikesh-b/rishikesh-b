@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishikesh Bharadwaj</h1>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikesh-b&theme=juicyfresh" alt="rishikesh-b" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikesh-b&theme=algolia" alt="rishikesh-b" /></a> </p>
 
  - I’m currently working on [Billing System](https://github.com/rishikesh-b/BillingSystem)
 
