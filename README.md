@@ -5,7 +5,7 @@
 
 <h3 align="center"<p> I’m currently working on <a href="https://github.com/rishikesh-b/BillingSystem">Billing System</a></p></h3>
                          
-<h3 align="center"<p> I’m currently learning <a href="https://www.cprogramming.com/"><b>C Language</b></a></p></h3>
+<h3 align="center"<p> I’m currently learning <a href="https://www.cprogramming.com/"><b><i>C</i> </b></a></p></h3>
 
 <h3 align="center"<p> All of my projects are available at <a href="https://github.com/rishikesh-b"><b>Github</b></a></p></h3>
 
