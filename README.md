@@ -3,9 +3,9 @@
 
 <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikesh-b&theme=flat&row=2&column=3" alt="rishikesh-b" /></a> </p> -->
 
-<h3 align="center"<p> Currently working on <a href="https://github.com/rishikesh-b/BillingSystem">Billing System</a></p></h3>
+<!-- <h3 align="center"<p> Currently working on <a href="https://github.com/rishikesh-b/BillingSystem">Billing System</a></p></h3>
                          
-<h3 align="center"<p> All of my projects are available at <a href="https://github.com/rishikesh-b"><b>Github</b></a></p></h3>
+<h3 align="center"<p> All of my projects are available at <a href="https://github.com/rishikesh-b"><b>Github</b></a></p></h3> -->
 
 </p>
 
