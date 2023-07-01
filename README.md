@@ -15,7 +15,7 @@
 
 
 <h1  align="center">Github Stats:</h1>
-<p  align="center"> 
+<p   align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikesh-b&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="rishikesh-b" />
 </br>
 </br>
