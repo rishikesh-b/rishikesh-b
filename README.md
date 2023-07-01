@@ -1,4 +1,4 @@
-<h1  align="center">Hi 👋, I'm Rishikesh Bharadwaj</h1>
+<h1  align="center">Hi 👋, I'm Rishikesh Bharadwaj </h1>
 
 
 <!--<p  align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikesh-b&theme=flat&row=2&column=3" alt="rishikesh-b" /></a> </p> -->
