@@ -20,7 +20,7 @@
 </br>
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishikesh-b&show_icons=true&theme=aura&locale=en" alt="rishikesh-b" />
+<img  align="center" src="https://github-readme-stats.vercel.app/api?username=rishikesh-b&show_icons=true&theme=aura&locale=en" alt="rishikesh-b" />
 
 </br>
 </br>
